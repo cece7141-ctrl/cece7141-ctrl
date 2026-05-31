@@ -1,4 +1,4 @@
-## Hi, I'm Sydney
+## Hi, I'm Sydney ❈
 
 <!--
 **cece7141-ctrl/cece7141-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ I'm a Data Science student interested in machine learning, analytics, and using 
 
 This GitHub is where I document the projects, coursework, and experiments I'm working on as I continue developing my skills in data science and software development.
 
-## ✨ Current Projects
+## ❈ Current Projects
 
 - International Biathlon Data Warehouse
   - Designing a data warehouse to analyze athlete development trajectories.
@@ -32,9 +32,9 @@ This GitHub is where I document the projects, coursework, and experiments I'm wo
 - Salon Workflow Optimization
   - Analyzing scheduling and operational efficiency in high-volume braiding salons.
 
-## ✨ Featured Projects
+## ❈ Featured Projects
 
-- Chappel Roan Case Study
+- Chappell Roan Case Study
   - Collected and prepared social media data using platform APIs.
   - Analyzed audience engagement, interaction patterns, and community behaviour.
   - Applied social media analytics techniques to evaluate online presence and public engagement.
@@ -53,3 +53,10 @@ This GitHub is where I document the projects, coursework, and experiments I'm wo
   - Developed machine learning models to automate loan approval decisions.
   - Predicted lending outcomes and estimated maximum lending amounts using historical applicant data.
   - Evaluated model performance and business implications of automated credit assessment.
+ 
+## ❈ Currently Learning
+
+- Machine Learning Engineering
+- LLM Applications
+- Software Development
+
