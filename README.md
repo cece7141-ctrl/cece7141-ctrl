@@ -34,7 +34,7 @@ This GitHub is where I document the projects, coursework, and experiments I'm wo
 
 ## ❈ Featured Projects ❈
 
-- Chappell Roan Case Study
+- [Chappell Roan Case Study]([url](https://github.com/cece7141-ctrl/Web-and-Social-Analytics))
   - Collected and prepared social media data using platform APIs.
   - Analyzed audience engagement, interaction patterns, and community behaviour.
   - Applied social media analytics techniques to evaluate online presence and public engagement.
