@@ -58,5 +58,5 @@ This GitHub is where I document the projects, coursework, and experiments I'm wo
 
 - Machine Learning Engineering
 - LLM Applications
-- Software Development
+- Software Engineering
 
