@@ -23,7 +23,7 @@ This GitHub is where I document the projects, coursework, and experiments I'm wo
 - International Biathlon Data Warehouse
   - Designing a data warehouse to analyze athlete development trajectories.
 
-- Community Connector LLM Project
+- Community LLM Project
   - Building a user-friendly interface for LLM powered transcript analysis tools.
 
 - Anomaly Detection Model
