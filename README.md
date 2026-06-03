@@ -56,7 +56,8 @@ This GitHub is where I document the projects, coursework, and experiments I'm wo
  
 ## ❈ Currently Learning ❈
 
+- Software Engineering
 - Machine Learning Engineering
 - LLM Applications
-- Software Engineering
+
 
