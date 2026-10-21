@@ -18,6 +18,8 @@ I'm a Data Science student interested in machine learning, analytics, and using 
 
 This GitHub is where I document the projects, coursework, and experiments I'm working on as I continue developing my skills in data science and software development.
 
+*This Github is currently under construction!!*
+
 ## ❈ Current Projects ❈
 
 - International Biathlon Data Warehouse
