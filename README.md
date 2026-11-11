@@ -1,4 +1,4 @@
-## Hi, I'm Sydney ❀♗
+# Hi, I'm Sydney ❀♗
 
 <!--
 **cece7141-ctrl/cece7141-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,25 +29,25 @@ Here, I document the projects, coursework, and experiments I'm working on as I c
 
 ## ❈ Featured Projects ❈
 
-- International Biathlon Data Warehouse
+### International Biathlon Data Warehouse
   - Designed and developed a multidimensional data warehouse to analyze athlete development trajectories.
   - Built and managed ETL pipeline to extract, clean, and load data from multiple sources.
   - Built an LLM-powered user interface enabling natural language querying for end users.
 
-- Community LLM Project
+### Community LLM Project
   - Built a user-friendly interface for LLM powered transcript analysis tool.
 
-- [Chappell Roan Case Study]([url](https://github.com/cece7141-ctrl/Web-and-Social-Analytics))
+### [Chappell Roan Case Study]([url](https://github.com/cece7141-ctrl/Web-and-Social-Analytics))
   - Collected and prepared social media data using platform APIs.
   - Analyzed audience engagement, interaction patterns, and community behaviour.
   - Applied social media analytics techniques to evaluate online presence and public engagement.
  
-- [Hospital Data Warehouse]([url](https://github.com/cece7141-ctrl/Hospital-Domain-Entity-Relationship))
+### [Hospital Data Warehouse]([url](https://github.com/cece7141-ctrl/Hospital-Domain-Entity-Relationship))
   - Designed a dimensional data warehouse model from a healthcare ER schema.
   - Implemented fact and dimension tables using SQL.
   - Developed materialized views to support management reporting and improve query performance.
  
-- [Loan Approval Prediction System]([url](https://github.com/cece7141-ctrl/Loan-Approval-Predictive-Model))
+### [Loan Approval Prediction System]([url](https://github.com/cece7141-ctrl/Loan-Approval-Predictive-Model))
   - Developed machine learning models to automate loan approval decisions.
   - Predicted lending outcomes and estimated maximum lending amounts using historical applicant data.
   - Evaluated model performance and business implications of automated credit assessment.
